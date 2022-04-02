@@ -1,2 +1,2 @@
-**This repository mainly records the papers for recommendation system & computing advertising which I read.**
+**This repository mainly records the papers for recommender system & computational advertising which I read.**
 
