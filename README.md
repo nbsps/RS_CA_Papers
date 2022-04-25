@@ -19,6 +19,12 @@ This repository(**academic branch**) records the papers for recommendation syste
 | -------- | ---- | ---- | ---- |
 | NeuralCF | WWW  | 2017 | 🟢    |
 
+### LR
+
+| LR      | WWW   | 2007 | 🟢    |
+| ------- | ----- | ---- | ---- |
+| GBDT+LR | ADKDD | 2014 | 🟢    |
+
 ### MF
 
 | BiasSVD | Computer | 2009 | 🟢    |
@@ -39,9 +45,8 @@ This repository(**academic branch**) records the papers for recommendation syste
 
 ### DNN
 
-| DSSM          | CIKM   | 2013 | 🟠    |
-| ------------- | ------ | ---- | ---- |
 | YoutubeDNN    | RecSys | 2016 | 🟢    |
+| ------------- | ------ | ---- | ---- |
 | Wide&Deep     | DLRS   | 2016 | 🟢    |
 | Deep Crossing | KDD    | 2016 | 🟢    |
 | PNN           | ICDM   | 2016 | 🟢    |
@@ -56,7 +61,7 @@ This repository(**academic branch**) records the papers for recommendation syste
 | -------- | ---- | ---- | ---- |
 | LightGBM | NIPS | 2017 | 🟠    |
 
-### Knowledge aware
+## Knowledge aware
 
 | Trans$    | -      | -    | 🟠    |
 | --------- | ------ | ---- | ---- |
@@ -65,24 +70,20 @@ This repository(**academic branch**) records the papers for recommendation syste
 | CFKG      | MDPI   | 2018 | 🔴    |
 | KTUP      | WWW    | 2019 | 🔴    |
 
-### Sequential based
+## Sequential based
 
 | FPMC   | WWW  | 2010 | 🟢    |
 | ------ | ---- | ---- | ---- |
 | SASRec | ICDM | 2018 | 🟢    |
 
-## Ranking
-
-### LR
-
-| LR      | WWW   | 2007 | 🟢    |
-| ------- | ----- | ---- | ---- |
-| GBDT+LR | ADKDD | 2014 | 🟢    |
-
-### Multi-task
+## Multi-task
 
 | MMoE | KDD    | 2018 | 🟠    |
 | ---- | ------ | ---- | ---- |
 | PLE  | Recsys | 2020 | 🟠    |
 | ESMM | SIGIR  | 2018 | 🟠    |
 
+## Double towers
+
+| DSSM | CIKM | 2013 | 🟠    |
+| ---- | ---- | ---- | ---- |
