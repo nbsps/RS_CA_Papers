@@ -4,6 +4,8 @@ This repository(**academic branch**) records the papers for recommendation syste
 
 > **checkout for [engineering](https://github.com/nbsps/RS_CA_Papers/tree/engineering) branch**
 
+> **corresponding pytorch implementaion** 🚀 [RS-Models](https://github.com/nbsps/RS-Models)
+
 ## Survey
 
 | 基于深度学习的推荐系统研究综述                               | 2018 | 🟢    |
